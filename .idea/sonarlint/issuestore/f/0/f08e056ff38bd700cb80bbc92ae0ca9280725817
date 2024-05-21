@@ -1,2 +1,9 @@
 
-E	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ
+_
+java:S1854"=Remove this useless assignment to local variable "observer2".(°ÈÙ–øÿÿÿÿ8ÉÞ·ÿø1
+Z
+java:S1854"=Remove this useless assignment to local variable "observer1".(ƒµÀÁ8ÉÞ·ÿø1
+K
+java:S1481".Remove this unused "observer1" local variable.(ƒµÀÁ8ÔÞ·ÿø1
+P
+java:S1481".Remove this unused "observer2" local variable.(°ÈÙ–øÿÿÿÿ8ÕÞ·ÿø1
